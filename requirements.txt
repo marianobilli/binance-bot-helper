@@ -1,7 +1,2 @@
 pandas
-pytest
-pytest-runner
 python-binance
-wheel
-setuptools
-twine
