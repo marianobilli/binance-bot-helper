@@ -35,4 +35,4 @@ jobs:
           python -m pip install -r requirements.txt
           pip install pytest
       - name: Test package
-        run: pytest
+        run: pytest -v
